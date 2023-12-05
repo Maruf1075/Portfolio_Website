@@ -588,6 +588,10 @@ span{
     .home-content h1{
         font-size: 5.2rem;
     }
+    .home{
+        background-image: none;
+        background-color: var(--bg-color);
+    }
     .contact form .input-box .input-field{
         width: 100%;
     }
